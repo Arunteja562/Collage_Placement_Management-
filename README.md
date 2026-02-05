@@ -104,7 +104,7 @@ cd college-placement-management-system
    CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
    CLOUDINARY_API_KEY=your_cloudinary_api_key
    CLOUDINARY_API_SECRET=your_cloudinary_api_secret
-   SMTP_USER="your_email_id"
+   SMTP_USER="vasamaruntej143@gmail.com"
    SMTP_PASS="your_app_password_to_be_generate_via_google_settings"
    ```
 4. Start the backend server:
@@ -132,8 +132,8 @@ cd college-placement-management-system
    ```
 
 ## Contributors
-- **Member 1**: [Moin MN](https://www.linkedin.com/in/moinnaik/)
-- **Member 2**: Rafat Muskan Shaikh
-- **Member 3**: Saquib Patel
-- **Member 4**: Neeraj Kumar
+- **Member 1**: Vasam Arunteja
+- **Member 2**: Pushpa Latha
+- **Member 3**: Sai Sravani
+
 
