@@ -133,6 +133,10 @@ cd college-placement-management-system
 
 ## Contributors
 - **Member 1**: Vasam Arunteja
+- Add your preferred contact details or links so visitors can reach you. Example:
+Email: vasamaruntej143@gmail.com
+LinkedIn: www.linkedin.com/in/vasam-arunteja2002-00ab11256
+GitHub: https://github.com/Arunteja562
 - **Member 2**: Pushpa Latha
 - **Member 3**: Sai Sravani
 
